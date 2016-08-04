@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\ASWorkspace\\ListViewTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mid_list.xml",
+        "source": "E:\\ASWorkspace\\ListViewTwo\\app\\src\\main\\res\\layout\\mid_list.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\right_items.xml",
+        "source": "E:\\ASWorkspace\\ListViewTwo\\app\\src\\main\\res\\layout\\right_items.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mid_items.xml",
+        "source": "E:\\ASWorkspace\\ListViewTwo\\app\\src\\main\\res\\layout\\mid_items.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\left_items.xml",
+        "source": "E:\\ASWorkspace\\ListViewTwo\\app\\src\\main\\res\\layout\\left_items.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\right_list.xml",
+        "source": "E:\\ASWorkspace\\ListViewTwo\\app\\src\\main\\res\\layout\\right_list.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\ASWorkspace\\ListViewTwo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\ASWorkspace\\ListViewTwo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\left_list.xml",
+        "source": "E:\\ASWorkspace\\ListViewTwo\\app\\src\\main\\res\\layout\\left_list.xml"
+    }
+]

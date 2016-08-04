@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\ASWorkspace\ListViewTwo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cda445e91aedddeebafa8fd977263aae9355f457">
+        <dex dex="E:\ASWorkspace\ListViewTwo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4e3c7e902212902675f0bee2fe2c5400b471f85c\classes.dex" />
+    </item>
+    <item
+        jar="E:\ASWorkspace\ListViewTwo\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\ASWorkspace\ListViewTwo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_2b6d2967398a0ac3bf957d3bf7ae083e630dd267\classes.dex" />
+    </item>
+    <item
+        jar="E:\ASWorkspace\ListViewTwo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5b75944079a5b196bdf6922de412bbc66704455f">
+        <dex dex="E:\ASWorkspace\ListViewTwo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b967855e4f09c7bea1207bc1063a22c2fd876658\classes.dex" />
+    </item>
+    <item
+        jar="F:\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\ASWorkspace\ListViewTwo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_ef3a922ee6c3542944856a752b2ad08fe7cc121d\classes.dex" />
+    </item>
+    <item
+        jar="E:\ASWorkspace\ListViewTwo\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\ASWorkspace\ListViewTwo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_da1742683012b4c826b80f459a423530b793e16b\classes.dex" />
+    </item>
+
+</items>
